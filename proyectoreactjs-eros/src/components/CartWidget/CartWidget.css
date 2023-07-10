@@ -1,0 +1,21 @@
+.cart-widget {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .cart-widget img {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+  }
+  
+  .cart-widget span {
+    font-weight: bold;
+  }
+  
+  .cart-icon {
+    font-size: 20px;
+    margin-right: 5px;
+  }
+  
